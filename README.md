@@ -1,48 +1,54 @@
-Certainly! Let's make the features section more engaging with some additional features and emojis to highlight the key aspects.
+# Insignia Event Management System
 
----
-
-# Insignia 24 Event Management System
-
-Welcome to the Insignia 24 Event Management System! This project is designed to streamline and manage the various activities and events for the college fest, Insignia 24.
+Welcome to the Insignia 24 Event Management System! This project is designed to streamline and manage the various activities and events for the college fest, Insignia, conducted by Shri Dharmasthala College of Engineering and Technology, Dharwad.
+**The system was executed flawlessly during Insignia 2024 without any errors.**
 
 ## Table of Contents
 
 - [Introduction](#introduction)
+- [Technologies Used](#technologies-used)
 - [Features](#features)
 - [Modules](#modules)
   - [Admin Module](#admin-module)
   - [Event Coordinator Module](#event-coordinator-module)
   - [Desk Manager Module](#desk-manager-module)
   - [Monitor Module](#monitor-module)
-- [Screenshots](#screenshots)
 - [Contact](#contact)
 
 ## Introduction
 
-Insignia 24 Event Management System is a web-based application developed to manage the planning, organization, and execution of events for the college fest, Insignia 24. This system aims to facilitate efficient event management, participant registration, scheduling, and overall event coordination.
+Event Management System is a web-based application developed to manage the planning, organization, and execution of events for the college fest, Insignia, conducted by Shri Dharmasthala College of Engineering and Technology, Dharwad. This system aims to streamline event registration, payment management, and overall event coordination, eliminating the need for Google Forms. 
+
+## Technologies Used
+
+- **Frontend:** ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+- **Framework:** ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+- **Backend:** ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+- **Email Service:** ![AWS SES](https://img.shields.io/badge/AWS%20SES-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 ## Features
 
-✨ **Comprehensive Dashboard:** Get an overview of total participants, paid participants, accommodation details, event counts, and financial statistics.
-
+✨ **Dashboard:** Get a comprehensive overview of total participants, paid participants, accommodation details, event counts, and financial statistics.
+  
 👥 **User Management:** Easily create and manage users with different roles such as Admin, Event Coordinator, Desk Manager, and Monitor.
-
+  
 📅 **Event Management:** Seamlessly add and manage event information, including images and basic details.
-
+  
 📝 **Participant Management:** View and export participant details in various formats for easy tracking and record-keeping.
-
+  
 🔍 **Custom Filtering:** Filter participants based on events and payment status to quickly access the required information.
-
-💳 **Payment Management:** Efficiently add, view, and manage payment details, and generate bills with ease.
-
-📢 **Notification System:** Send timely notifications and reminders to participants and organizers to keep everyone informed.
-
-📊 **Analytics and Reporting:** Generate detailed reports and analytics to evaluate event performance and participation metrics.
-
+  
+📧 **Email Notifications:** Automatically send confirmation emails to participants after registration.
+  
+💳 **Payment Management & Bill Generation:** Efficiently add, view, and manage payment details, and generate bills with ease.
+  
+📂 **Data Export:** Export participant and event data into PDF and Excel formats for convenient record-keeping.
+  
 🔐 **Secure Authentication:** Ensure data security with robust authentication mechanisms for all users.
-
-📱 **Mobile-Friendly Interface:** Access the system on-the-go with a responsive, mobile-friendly interface.
+  
+📱 **Responsive Design:** Access the system on-the-go with a responsive, mobile-friendly interface.
+  
+🔧 **Separate Panels:** Different logins and panels for Event Coordinators to manage their specific tasks efficiently.
 
 ## Modules
 
@@ -105,10 +111,4 @@ The Monitor Module is designed to provide an overview and detailed filtering of 
   ![Participant Filtering](screenshots/monitor/moni.png)
 
 
-## Contact
 
-For any queries or further information, please contact us at [your-email@example.com](mailto:your-email@example.com).
-
----
-
-Please provide the actual screenshots or any other specific details you'd like to include, and I'll integrate them into the README. If you need any adjustments or additional sections, let me know!
