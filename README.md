@@ -13,7 +13,6 @@ Welcome to the Insignia 24 Event Management System! This project is designed to 
   - [Event Coordinator Module](#event-coordinator-module)
   - [Desk Manager Module](#desk-manager-module)
   - [Monitor Module](#monitor-module)
-- [Contact](#contact)
 
 ## Introduction
 
@@ -28,10 +27,12 @@ Event Management System is a web-based application developed to manage the plann
 
 ## Features
 
-✨ **Dashboard:** Get a comprehensive overview of total participants, paid participants, accommodation details, event counts, and financial statistics.
+✨ **Dashboard:** Get a comprehensive overview of event data through dynamic dashboards.
   
 👥 **User Management:** Easily create and manage users with different roles such as Admin, Event Coordinator, Desk Manager, and Monitor.
-  
+
+🪪 **Special ID Generation:** Generate a Special ID when a user registers for an event.
+
 📅 **Event Management:** Seamlessly add and manage event information, including images and basic details.
   
 📝 **Participant Management:** View and export participant details in various formats for easy tracking and record-keeping.
@@ -59,7 +60,7 @@ The Admin Module provides comprehensive control and oversight over the entire ev
 - **Dashboard:** Displays total participants, paid participants, accommodation details, total events, and financial details including amounts collected from various events (technical, cultural, centralized) and total collected via cash and online payments.
   ![Admin Dashboard](screenshots/admin/admin_dash.png)
 
-- **Manager Panel:** Allows the creation of users for different roles such as admin, coordinator, and desk manager.
+- **Manager Panel:** Allows the creation of users for different roles such as admin, coordinator, desk manager, monitor.
   ![Manager Panel](screenshots/admin/manager_panel.png)
 
 - **Events:** Add event information along with images and basic details.
@@ -68,7 +69,7 @@ The Admin Module provides comprehensive control and oversight over the entire ev
   ![Events](screenshots/admin/event_add.png)
 
 - **Participants:** View participant details and export them in Excel or PDF format.
-  ![Participants](screenshots/admin/particpant_full.png)
+  ![Participants](screenshots/admin/participant_full.png)
 
 - **Custom Filters:** Filter participants based on events and payment status (paid and unpaid).
   ![Custom Filters](screenshots/admin/custom.png)
@@ -81,8 +82,9 @@ The Event Coordinator Module is designed for coordinators to manage participants
   ![Coordinator Dashboard](screenshots/coordinator/coordinator_dashboard.png)
   ![Coordinator Dashboard](screenshots/coordinator/coordinator_dashboard_full.png)
 
-- **Paid Participants:** View and export details of paid participants in various formats.
+- **Paid Participants:** View and filter (All groups/Group leaders only) and export details of paid participants in various formats.
   ![Paid Participants](screenshots/coordinator/co-part.png)
+  ![Paid Participants](screenshots/coordinator/eve-blur.png)
 
 - **Unpaid Participants:** View details of unpaid participants.
   ![Unpaid Participants](screenshots/coordinator/unpaid-par.png)
@@ -110,5 +112,8 @@ The Monitor Module is designed to provide an overview and detailed filtering of 
 - **Participant Filtering:** Filter event participant details based on events and payment details.
   ![Participant Filtering](screenshots/monitor/moni.png)
 
+---
 
+### Developed By Abhisheksingh | Team QWERTY.IO with 💖
 
+---
