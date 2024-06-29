@@ -57,9 +57,9 @@ The Admin Module provides comprehensive control and oversight over the entire ev
   ![Manager Panel](screenshots/admin/manager_panel.png)
 
 - **Events:** Add event information along with images and basic details.
-  ![Events](screenshots/admin/events_half.png)
-  ![Events](screenshots/admin/events_full.png)
-  ![Events](screenshots/admin/events_add.png)
+  ![Events](screenshots/admin/event_half.png)
+  ![Events](screenshots/admin/event_full.png)
+  ![Events](screenshots/admin/event_add.png)
 
 - **Participants:** View participant details and export them in Excel or PDF format.
   ![Participants](screenshots/admin/particpant_full.png)
