@@ -69,7 +69,7 @@ The Admin Module provides comprehensive control and oversight over the entire ev
   ![Events](screenshots/admin/event_add.png)
 
 - **Participants:** View participant details and export them in Excel or PDF format.
-  ![Participants](screenshots/admin/participant_full.png)
+  ![Participants](screenshots/admin/particpant_full.png)
 
 - **Custom Filters:** Filter participants based on events and payment status (paid and unpaid).
   ![Custom Filters](screenshots/admin/custom.png)
@@ -113,6 +113,7 @@ The Monitor Module is designed to provide an overview and detailed filtering of 
   ![Participant Filtering](screenshots/monitor/moni.png)
 
 ---
+**NOTE: This repository does not contain the event code. The codebase is private and cannot be shared.**
 
 ### Developed By Abhisheksingh | Team QWERTY.IO with 💖
 
